@@ -19,3 +19,6 @@
 [submodule "primeros-pasos-react"]
 	path = primeros-pasos-react
 	url = https://github.com/Gdaimon/primeros-pasos-react.git
+[submodule "firebase-react-router"]
+	path = firebase-react-router
+	url = https://github.com/Gdaimon/firebase-react-router.git

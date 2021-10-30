@@ -25,3 +25,6 @@
 [submodule "lista-tareas-react"]
 	path = lista-tareas-react
 	url = https://github.com/Gdaimon/lista-tareas-react.git
+[submodule "conexion-firebase"]
+	path = conexion-firebase
+	url = https://github.com/Gdaimon/conexion-firebase.git

@@ -4,3 +4,6 @@
 [submodule "primer-proyecto-html"]
 	path = primer-proyecto-html
 	url = https://github.com/Gdaimon/primer-proyecto-html.git
+[submodule "css-uniantioquia"]
+	path = css-uniantioquia
+	url = https://github.com/Gdaimon/css-uniantioquia.git

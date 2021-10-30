@@ -16,3 +16,6 @@
 [submodule "fire-task"]
 	path = fire-task
 	url = https://github.com/Gdaimon/fire-task.git
+[submodule "primeros-pasos-react"]
+	path = primeros-pasos-react
+	url = https://github.com/Gdaimon/primeros-pasos-react.git

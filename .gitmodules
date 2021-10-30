@@ -22,3 +22,6 @@
 [submodule "firebase-react-router"]
 	path = firebase-react-router
 	url = https://github.com/Gdaimon/firebase-react-router.git
+[submodule "lista-tareas-react"]
+	path = lista-tareas-react
+	url = https://github.com/Gdaimon/lista-tareas-react.git

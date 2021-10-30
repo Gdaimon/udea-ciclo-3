@@ -1,50 +1,50 @@
-[submodule "prueba-repositorio"]
-	path = prueba-repositorio
+[submodule "01-prueba-repositorio"]
+	path = 01-prueba-repositorio
 	url = https://github.com/Gdaimon/prueba-repositorio.git
-[submodule "primer-proyecto-html"]
-	path = primer-proyecto-html
+[submodule "02-primer-proyecto-html"]
+	path = 02-primer-proyecto-html
 	url = https://github.com/Gdaimon/primer-proyecto-html.git
-[submodule "css-uniantioquia"]
-	path = css-uniantioquia
+[submodule "03-css-uniantioquia"]
+	path = 03-css-uniantioquia
 	url = https://github.com/Gdaimon/css-uniantioquia.git
-[submodule "css-bootstrap-uniantioquia"]
-	path = css-bootstrap-uniantioquia
+[submodule "04-css-bootstrap-uniantioquia"]
+	path = 04-css-bootstrap-uniantioquia
 	url = https://github.com/Gdaimon/css-bootstrap-uniantioquia.git
-[submodule "clase-javascript"]
-	path = clase-javascript
+[submodule "05-clase-javascript"]
+	path = 05-clase-javascript
 	url = https://github.com/Gdaimon/clase-javascript.git
-[submodule "fire-task"]
-	path = fire-task
+[submodule "06-fire-task"]
+	path = 06-fire-task
 	url = https://github.com/Gdaimon/fire-task.git
-[submodule "primeros-pasos-react"]
-	path = primeros-pasos-react
+[submodule "07-primeros-pasos-react"]
+	path = 07-primeros-pasos-react
 	url = https://github.com/Gdaimon/primeros-pasos-react.git
-[submodule "firebase-react-router"]
-	path = firebase-react-router
+[submodule "08-firebase-react-router"]
+	path = 08-firebase-react-router
 	url = https://github.com/Gdaimon/firebase-react-router.git
-[submodule "lista-tareas-react"]
-	path = lista-tareas-react
+[submodule "09-lista-tareas-react"]
+	path = 09-lista-tareas-react
 	url = https://github.com/Gdaimon/lista-tareas-react.git
-[submodule "conexion-firebase"]
-	path = conexion-firebase
+[submodule "10-conexion-firebase"]
+	path = 10-conexion-firebase
 	url = https://github.com/Gdaimon/conexion-firebase.git
-[submodule "rutas-react"]
-	path = rutas-react
+[submodule "11-rutas-react"]
+	path = 11-rutas-react
 	url = https://github.com/Gdaimon/rutas-react.git
-[submodule "rutas-protegidas"]
-	path = rutas-protegidas
+[submodule "12-rutas-protegidas"]
+	path = 12-rutas-protegidas
 	url = https://github.com/Gdaimon/rutas-protegidas.git
-[submodule "rutas-protegidas-firebase"]
-	path = rutas-protegidas-firebase
+[submodule "13-rutas-protegidas-firebase"]
+	path = 13-rutas-protegidas-firebase
 	url = https://github.com/Gdaimon/rutas-protegidas-firebase.git
-[submodule "ajax_sessionStorage_localStorage"]
-	path = ajax_sessionStorage_localStorage
+[submodule "14-ajax_sessionStorage_localStorage"]
+	path = 14-ajax_sessionStorage_localStorage
 	url = https://github.com/Gdaimon/ajax_sessionStorage_localStorage.git
-[submodule "context-api-explicacion"]
+[submodule "15-context-api-explicacion"]
 	path = context-api-explicacion
 	url = https://github.com/Gdaimon/context-api-explicacion.git
-[submodule "context-api-ejemplo"]
-	path = context-api-ejemplo
+[submodule "16-context-api-ejemplo"]
+	path = 16-context-api-ejemplo
 	url = https://github.com/Gdaimon/context-api-ejemplo.git
 [submodule "proyecto-ventas"]
 	path = proyecto-ventas

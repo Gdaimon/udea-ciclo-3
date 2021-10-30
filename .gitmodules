@@ -37,3 +37,6 @@
 [submodule "rutas-protegidas-firebase"]
 	path = rutas-protegidas-firebase
 	url = https://github.com/Gdaimon/rutas-protegidas-firebase.git
+[submodule "ajax_sessionStorage_localStorage"]
+	path = ajax_sessionStorage_localStorage
+	url = https://github.com/Gdaimon/ajax_sessionStorage_localStorage.git

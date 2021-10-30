@@ -28,3 +28,6 @@
 [submodule "conexion-firebase"]
 	path = conexion-firebase
 	url = https://github.com/Gdaimon/conexion-firebase.git
+[submodule "rutas-react"]
+	path = rutas-react
+	url = https://github.com/Gdaimon/rutas-react.git

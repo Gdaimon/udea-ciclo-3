@@ -13,3 +13,6 @@
 [submodule "clase-javascript"]
 	path = clase-javascript
 	url = https://github.com/Gdaimon/clase-javascript.git
+[submodule "fire-task"]
+	path = fire-task
+	url = https://github.com/Gdaimon/fire-task.git

@@ -46,3 +46,6 @@
 [submodule "context-api-ejemplo"]
 	path = context-api-ejemplo
 	url = https://github.com/Gdaimon/context-api-ejemplo.git
+[submodule "proyecto-ventas"]
+	path = proyecto-ventas
+	url = https://github.com/Gdaimon/proyecto-ventas.git

@@ -1,0 +1,3 @@
+[submodule "prueba-repositorio"]
+	path = prueba-repositorio
+	url = https://github.com/Gdaimon/prueba-repositorio.git

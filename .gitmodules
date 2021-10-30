@@ -10,3 +10,6 @@
 [submodule "css-bootstrap-uniantioquia"]
 	path = css-bootstrap-uniantioquia
 	url = https://github.com/Gdaimon/css-bootstrap-uniantioquia.git
+[submodule "clase-javascript"]
+	path = clase-javascript
+	url = https://github.com/Gdaimon/clase-javascript.git

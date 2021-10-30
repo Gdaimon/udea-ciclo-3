@@ -34,3 +34,6 @@
 [submodule "rutas-protegidas"]
 	path = rutas-protegidas
 	url = https://github.com/Gdaimon/rutas-protegidas.git
+[submodule "rutas-protegidas-firebase"]
+	path = rutas-protegidas-firebase
+	url = https://github.com/Gdaimon/rutas-protegidas-firebase.git

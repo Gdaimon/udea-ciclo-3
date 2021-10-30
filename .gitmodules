@@ -1,3 +1,6 @@
 [submodule "prueba-repositorio"]
 	path = prueba-repositorio
 	url = https://github.com/Gdaimon/prueba-repositorio.git
+[submodule "primer-proyecto-html"]
+	path = primer-proyecto-html
+	url = https://github.com/Gdaimon/primer-proyecto-html.git

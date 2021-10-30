@@ -31,3 +31,6 @@
 [submodule "rutas-react"]
 	path = rutas-react
 	url = https://github.com/Gdaimon/rutas-react.git
+[submodule "rutas-protegidas"]
+	path = rutas-protegidas
+	url = https://github.com/Gdaimon/rutas-protegidas.git
